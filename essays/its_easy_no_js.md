@@ -9,9 +9,6 @@ labels:
   - JavaScript
 ---
 
-## __It’s easy! No js…__
-Prayag Das
-
 ## My Initial Thoughts
 
 If you’ve read my title, then chances are, you’ve either understood my terrible attempt at comedy,  and I’ve made an awful first impression, or it’s gone right over your head, and you will be able to read this essay without imagining it being spoken by a dad with some bad jokes. All jokes aside, these are my first impressions of JavaScript. I have never coded in this language before. It has always been one of those coding languages that I knew existed, but never actually touched until now. The forbidden fruit. To be completely candid, I was nervous about learning the fundamentals of a new language in such a short period of time. I am happy to report that it’s easy! No, I’m serious! After seven years of learning various languages such as Python, Java, C, C#, C++ and more, one learns to recognize similarities in syntax and structure of code. If I had to spell it out simply, it was like learning a new game, similar to one I’m very familiar with, but with a few new rules. These “new rules” represent a few things in JavaScript, most of which are syntax related. One example of this would be how variables are defined. In languages like Java, variables are defined by type upon creation.
