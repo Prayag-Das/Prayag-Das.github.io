@@ -17,7 +17,7 @@ If you were ever taught that there’s “no such thing as a bad question,” yo
 
 The following is a real-life Stack Overflow inquiry:
 
-<img width="200px" 
+<img width="620px" 
      class="rounded float-start pe-4" 
      src="../img/smartQuestions/DumbQ.png" >
 
@@ -27,11 +27,11 @@ This is an amazing example of a “not smart” question. The first issue is the
 ## Ask “Smart” Questions
 Now that we know what a bad question can look like, let’s take a look at a real-life example of a good question:
 
-<img width="200px" 
+<img width="620px" 
      class="rounded float-start pe-4" 
      src="../img/smartQuestions/SmartQ1.png" >
      
-<img width="200px" 
+<img width="620px" 
      class="rounded float-start pe-4" 
      src="../img/smartQuestions/SmartQ2.png" >
 
