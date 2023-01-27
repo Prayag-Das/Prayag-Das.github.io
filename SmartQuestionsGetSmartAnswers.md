@@ -17,7 +17,6 @@ If you were ever taught that there’s “no such thing as a bad question,” yo
 
 The following is a real-life Stack Overflow inquiry:
 
-
 {
 What methods are allowed for each ContentProviderOperation.Builder type?
 
