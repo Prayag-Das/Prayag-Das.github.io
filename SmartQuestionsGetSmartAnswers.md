@@ -29,11 +29,19 @@ Now that we know what a bad question can look like, let’s take a look at a rea
 
 <img width="620px" 
      class="rounded float-start pe-4" 
-     src="../img/smartQuestions/SmartQ1.png" >
+      >
      
 <img width="620px" 
      class="rounded float-start pe-4" 
      src="../img/smartQuestions/SmartQ2.png" >
 
+<div class="text-center p-4">
+  <img width="620px" 
+       src="../img/smartQuestions/SmartQ1.png"
+       class="img-thumbnail" >
+  <img width="620px" 
+      src="../img/smartQuestions/SmartQ2.png"
+       class="img-thumbnail" >
+</div>
 
 This is a much better question than the latter, because it provides a specific header with the general topic of the post, snippets of the code where the error is being thrown, a walkthrough of the process and symptoms of the issue, the error messages displayed, and through that information, the reader can infer what the author means when they say “I'm unsure of what is actually wrong...” These types of questions are comprehensive in a way that the reader can walk through the process along with the reader as if they were present in the room when it first happened. When the very busy developer reading the question doesn’t have to spend 10 minutes situating themselves just to understand what the writer is actually asking, the work to create a solution is minimal, fast, and therefore, efficient. The time of the developer is not wasted, and the author of the question gets, in return, a very comprehensive answer. Smarter questions will always get smarter answers.
