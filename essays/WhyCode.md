@@ -11,6 +11,8 @@ labels:
 
 ## My First Experiences
 
+I'll be honest. The mere idea of learning to code as a newbie is probably one of the most daunting feelings I've had 
+
 ## College Experiences
 
 ## Where I'm Going
