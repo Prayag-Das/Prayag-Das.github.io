@@ -11,5 +11,5 @@ labels:
   - ACM Manoa
   - University of Hawaii at Manoa
   - Current Projects
-summary: "Currently, I am working with a small team of ICS students at UH Manoa to create software for applications used by the ACM(Association for Computing Machinery) clubs on campus."
+summary: "A small team of ICS students at UH Manoa creating software for applications used by the ACM(Association for Computing Machinery) clubs on campus"
 ---
