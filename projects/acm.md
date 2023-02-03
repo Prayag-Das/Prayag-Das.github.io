@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/submarine/acm.jpeg
+image: img/acm/acm.jpeg
 title: "ACM Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
