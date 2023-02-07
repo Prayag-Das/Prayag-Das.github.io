@@ -12,6 +12,12 @@ labels:
 ## My First Experiences
 I’ll be completely honest, the mere idea of learning to code as a newbie is probably one of the most daunting feelings I’ve ever had. My journey with computer science started during my sophomore year of high school when I took on two introductory coding courses. The first was “Intro to Computer Science,” and the other was a new course at the time, “App and Game Design.” My first code project didn’t involve any actual coding. Instead, we used an online program called ‘Snap,’ which utilized coding blocks containing various functions that could be connected together to create a program.
 
+<div class="text-center p-4">
+  <img width="620px" 
+       src="../img/whyCode/snap.jpg"
+       class="img-thumbnail" >
+</div>
+
 As the weeks went by, we learned the fundamentals of code and how it is structured to be read by a computer. With two computer science classes in my schedule, I learned Python, C, and C# simultaneously. I began to recognize how the two courses built off of each other, and everything just made sense. The following year, I took ‘AP Computer Science’ and learned Java, which was easy, as it shared a lot of similarities in syntax with C#. I learned how to use graphics and other amazing tools to create applications and games.
 
 
