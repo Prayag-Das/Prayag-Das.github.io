@@ -18,6 +18,9 @@ As the ACM software development team is a newer and current project of mine, thi
 
 <div class="text-center p-4">
   <img width="620px" 
-       src="../img/acm/react.png"
-       class="img-thumbnail" >
+    src="../img/acm/react.png"
+    class="img-thumbnail" >
+  <img width="620px" 
+    src="../img/acm/att1.png"
+    class="img-thumbnail" >
 </div>

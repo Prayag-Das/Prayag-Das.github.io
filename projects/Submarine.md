@@ -15,18 +15,12 @@ In Fall 2021, I was approached by my longtime friend, Andy Shi, who asked if I'd
 
 <div class="text-center p-4">
   <img width="620px" 
-       src="../img/submarine/sub1.png"
-       class="img-thumbnail" >
-</div>
-
-<div class="text-center p-4">
+    src="../img/submarine/sub1.png"
+    class="img-thumbnail" >
   <img width="620px" 
-       src="../img/submarine/sub2.png"
-       class="img-thumbnail" >
-</div>
-
-<div class="text-center p-4">
+    src="../img/submarine/sub2.png"
+    class="img-thumbnail" >
   <img width="620px" 
-       src="../img/submarine/sub3.png"
-       class="img-thumbnail" >
+    src="../img/submarine/sub3.png"
+    class="img-thumbnail" >
 </div>
