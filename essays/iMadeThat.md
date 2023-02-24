@@ -23,9 +23,11 @@ HTML and CSS, like many things in the ICS314 syllabus, were entirely uncharted t
 Bootstrap 5 makes web development so easy, it feels like cheating. What once took div class after div class now only requires a call to a specific class within the Bootstrap framework’s library. We’re not in Kansas anymore! UI Frameworks are eons away from anything
 
 <div class="text-center p-4">
+  <h3>Official Hollister Website</h3>
   <img width="620px" 
        src="../img/iMadeThat/hsite.png"
        class="img-thumbnail" >
+  <h3>My Mockup Hollister Site</h3>
   <img width="620px" 
        src="../img/iMadeThat/hsitemock.png"
        class="img-thumbnail" >
