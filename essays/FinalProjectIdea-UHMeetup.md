@@ -2,7 +2,9 @@
 layout: essay
 type: essay
 title: "Final Project Idea: UH Meetup"
-date: 2022-11-01
+# All dates must be YYYY-MM-DD format!
+date: 2023-03-29
+published: true
 labels:
   - Software Engineering
   - Meteor
