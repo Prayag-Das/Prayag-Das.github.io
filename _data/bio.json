@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C#", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C#", "C++", "Java", "Javascript", "Python", "ReactJS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -47,10 +47,21 @@
       "position": "Sales Associate",
       "website": "",
       "startDate": "March 2022",
-      "endDate": "Present",
+      "endDate": "March 2023",
       "summary": "Customer Service and Sales",
       "highlights": [
         "Create meaningful connections with customers, inform and drive sales."
+      ]
+    },
+    {
+      "company": "UH Groupings",
+      "position": "Web App Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "March 2023",
+      "endDate": "Present",
+      "summary": "Development of software using frameworks like AngularJS and ReactJS",
+      "highlights": [
+        "It's amazing to work with a group of talented and seasoned web developers, and I am learning more about web dev each day!"
       ]
     }
   ],
