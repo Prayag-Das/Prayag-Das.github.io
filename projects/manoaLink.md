@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/acm/mlLogo.jpg
-title: "ACM Software Development"
+image: img/manoalink/mlLogo.jpg
+title: "Manoa Link"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-11
 published: true
