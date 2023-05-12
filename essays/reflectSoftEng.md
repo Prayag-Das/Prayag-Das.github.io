@@ -10,6 +10,12 @@ labels:
   - University of Hawaii at Manoa
 ---
 
+<div class="text-center p-4">
+  <img width="620px" 
+       src="../img/final/intelliJ.png"
+       class="img-thumbnail" >
+</div>
+
 ## Looking back on ICS 314
 
 As I started this semester, I was coming out of a gap semester in which I did absolutely nothing in the field of coding. I was terrified that I was going to struggle to keep up with the new material and that I hadn’t remembered enough from previous semesters to succeed. 
