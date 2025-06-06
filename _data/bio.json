@@ -3,10 +3,9 @@
     "name": "Prayag Das",
     "label": "Student",
     "picture": "https://github.com/Prayag-Das.png",
-    "email": "prayagjd@hawaii.edu",
-    "phone": "510-335-2234",
+    "email": "prayag.j.das2001@hawaii.edu",
     "website": "https://Prayag-Das.github.io",
-    "summary": "I am a B.S. student for Computer Science in the Department of Information and Computer Sciences at UH Manoa. I expect to graduate in Spring, 2024.",
+    "summary": "I have recently completed my Bachelor of Science degree in Computer Science at UH Manoa, Department of Information and Computer Sciences.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Prayag-Das", "url": "http://github.com/Prayag-Das" },
@@ -23,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C#", "C++", "Java", "Javascript", "Python", "ReactJS" ]
+      "keywords": [ "C", "C#", "C++", "Java", "Javascript", "Python", "ReactJS", "R" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,26 +32,15 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "August 2019",
-      "endDate": "Present",
+      "endDate": "May 2025",
       "courses": [
       ]
     }
   ],
   "work": [
-    {
-      "company": "Sunglass Hut",
-      "position": "Sales Associate",
-      "website": "",
-      "startDate": "March 2022",
-      "endDate": "March 2023",
-      "summary": "Customer Service and Sales",
-      "highlights": [
-        "Create meaningful connections with customers, inform and drive sales."
-      ]
-    },
     {
       "company": "UH Groupings",
       "position": "Web App Developer",
