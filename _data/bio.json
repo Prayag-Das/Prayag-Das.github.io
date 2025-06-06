@@ -46,14 +46,25 @@
       "position": "Web App Developer",
       "website": "https://www.hawaii.edu/its/uhgroupings/",
       "startDate": "March 2023",
-      "endDate": "Present",
+      "endDate": "May 2025",
       "summary": "Development of software using frameworks like AngularJS and ReactJS",
       "highlights": [
-        "It's amazing to work with a group of talented and seasoned web developers, and I am learning more about web dev each day!"
+        "I really enjoyed working with a group of new and seasoned web developers. I learned a lot about UI design with React, effective communication, and team app development."
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "Association of Computing Machinery, UH Manoa Student Chapter (ACM Manoa)",
+      "website": "https://acmmanoa.org/",
+      "position": "Director of Tech and Innovation",
+      "startDate": "May 2023",
+      "endDate": "May 2024",
+      "summary": "I managed technical resources and maintained the website for the team. I also led a small software development team, guiding students in creating web applications for ACM Manoa clubs.",
+      "highlights": [
+        "This experience helped me sharpen my leadership skills, and I learned a lot about teaching and facilitating group activities.",
+      ]
+    },
     {
       "organization": "FRC(FIRST Robotics Competition) Team 971 Spartan Robotics",
       "website": "https://frc971.org/content/members",
@@ -72,12 +83,15 @@
       "title": "Best In Class",
       "date": "February 26-28, 2021",
       "awarder": "CodeDay",
-      "link": ""
+      "link": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "Michael Hodges - Information Tech Services, University of Hawaii at Manoa": "Available upon request"
+    },
+    {
+      "Jason Leigh - Director of LAVA, University of Hawaiʻi at Mānoa, Director Emeritus of Electronic Visualization Lab University of Illinois at Chicago": "Available upon request"
     }
   ]
 }
