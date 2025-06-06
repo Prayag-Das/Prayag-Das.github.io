@@ -4,7 +4,7 @@ type: essay
 title: "Wow, that's a lot of errors..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: true
+published: false
 labels:
   - Code Style
   - Personal Opinions
