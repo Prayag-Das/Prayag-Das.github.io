@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions Get Smart Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
-published: true
+published: false
 labels:
   - Questions
 ---
