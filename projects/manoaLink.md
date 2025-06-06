@@ -26,8 +26,7 @@ One of the main takeaways from this experience for me was that I learned to be a
 
 
 
-Our Manoa Link project page can be found [here](https://uhmanoalink.github.io/), and he deployed application can be found [here](https://manoalink.site/).
-
+Our Manoa Link project page can be found [here](https://uhmanoalink.github.io/).
 <div class="text-center p-4">
   <img width="620px" 
     src="../img/manoalink/ml1.png"
