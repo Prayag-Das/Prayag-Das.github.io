@@ -7,7 +7,7 @@ title: "Submarine Subscription Manager"
 date: 2023-02-02
 published: true
 labels:
-  - App
+  - Mobile App
   - Hackathon
 summary: "An application to track subscriptions and manage billing cycles"
 ---
