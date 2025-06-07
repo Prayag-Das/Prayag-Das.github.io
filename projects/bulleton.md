@@ -12,7 +12,7 @@ labels:
   - University of Hawaii at Manoa
 summary: "An app that provides localized information on personal hobbies and other interests"
 ---
-“Bulleton” is a unique app designed to keep users fully informed about the topics and activities they care about. Whether you're into sports, music, technology, or niche hobbies, our platform curates the latest news, events, and spots around your area that align with your interests. By simply selecting your hobbies and passions, Bulleton customizes your feed with content that speaks to you, allowing you to stay in the loop on what matters most.
+Bulleton is a mobile app that serves as a centralized hub for users to find comprehensive information related to their specific hobbies or interests. Users will be able to select a default hobby bulletin board with information feeds that we believe will be most useful, or they can customize their boards to display only the information they care about. We recognize the potential for a user's bulletin board to quickly become overwhelming. To combat this, we chose to utilize easily recognizable icons instead of text (e.g., a gear for settings, or a tennis racket icon for a tennis hobby). Therefore, our main goal was to verify that Bulleton's UI is simple to understand and to gather information for design improvements.
 
 <div class="text-center p-4">
   <img width="620px" 
