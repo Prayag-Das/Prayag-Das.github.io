@@ -4,7 +4,7 @@ type: project
 image: img/groupings/GroupingsLogoIcon.PNG
 title: "UH Groupings"
 # All dates must be YYYY-MM-DD format!
-date: 2023-05-01
+date: 2025-05-01
 published: true
 labels:
   - Work Experience
