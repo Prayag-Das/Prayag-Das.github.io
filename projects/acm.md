@@ -7,7 +7,7 @@ title: "ACM Software Development"
 date: 2023-02-02
 published: true
 labels:
-  - Volunteer Project
+  - Volunteer
   - University of Hawaii at Manoa
 summary: "A small team of ICS students at UH Manoa creating software for applications used by the ACM(Association for Computing Machinery) clubs on campus"
 ---
