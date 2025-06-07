@@ -21,12 +21,12 @@ One of our main projects was an Attendance Tracker for use by the club functions
   <img width="620px" 
     src="../img/acm/IMG_4745.jpeg"
     class="img-thumbnail" >
-  <img width="620px" 
-    src="../img/acm/website.png"
-    class="img-thumbnail" >
 </div>
 <div class="text-center p-4">
   <img width="620px" 
     src="../img/acm/Atten-Track.png"
+    class="img-thumbnail" >
+  <img width="620px" 
+    src="../img/acm/website.png"
     class="img-thumbnail" >
 </div>
