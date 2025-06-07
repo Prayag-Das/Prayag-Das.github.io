@@ -21,6 +21,6 @@ The deployed UH Groupings website can be found [here](https://www.hawaii.edu/its
 
 <div class="text-center p-4">
   <img width="620px" 
-       src="../img/groupings/groupingsHome.PNG"
+       src="../img/groupings/groupingsHome.png"
        class="img-thumbnail" >
 </div>
