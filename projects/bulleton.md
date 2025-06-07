@@ -7,7 +7,7 @@ title: "Bulleton"
 date: 2024-12-10
 published: true
 labels:
-  - App Design
+  - Mobile App
   - Flutter
   - University of Hawaii at Manoa
 summary: "An app that provides localized information on personal hobbies and other interests"
@@ -16,9 +16,12 @@ summary: "An app that provides localized information on personal hobbies and oth
 
 <div class="text-center p-4">
   <img width="620px" 
-       src="../img/971/rob1.jpeg"
+       src="../img/bulleton/1.png"
        class="img-thumbnail" >
   <img width="620px" 
-      src="../img/971/rob2.jpeg"
-       class="img-thumbnail" >
+      src="../img/bulleton/2.png"
+      class="img-thumbnail" >
+  <img width="620px" 
+      src="../img/bulleton/3.png"
+      class="img-thumbnail" >
 </div>
