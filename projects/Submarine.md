@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/submarine/submarine.png
-title: "Submarine Subscription Manager"
+title: "App - Submarine Subscription Manager"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
 published: true
