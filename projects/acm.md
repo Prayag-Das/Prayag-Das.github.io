@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/acm/icon.png
-title: "ACM Manoa Software Development"
+title: "Team - ACM Manoa Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
 published: true
