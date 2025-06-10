@@ -9,6 +9,12 @@ published: true
 labels:
   - Web App
   - University of Hawaii at Manoa
+  - React
+  - Git
+  - GitHub
+  - JavaScript
+  - HTML
+  - CSS
 summary: "A web application designed to connect companies directly to students with new jobs and opportunities"
 ---
 ## Overview
