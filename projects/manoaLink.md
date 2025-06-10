@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/manoalink/mlLogo.jpg
-title: "Manoa Link"
+title: "App - Manoa Link"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-11
 published: true
