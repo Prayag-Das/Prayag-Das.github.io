@@ -15,6 +15,7 @@ labels:
   - JavaScript
   - HTML
   - CSS
+  - Collaboration
 summary: "A web application designed to connect companies directly to students with new jobs and opportunities"
 ---
 ## Overview
