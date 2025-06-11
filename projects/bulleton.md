@@ -11,6 +11,7 @@ labels:
   - Flutter
   - Dart
   - University of Hawaii at Manoa
+  - Collaboration
 summary: "An app that provides localized information on personal hobbies and other interests"
 ---
 
