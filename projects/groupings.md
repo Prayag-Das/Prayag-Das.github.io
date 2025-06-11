@@ -11,6 +11,8 @@ labels:
   - Web Application
   - React JS
   - University of Hawaii at Manoa
+  - Collaboration
+  - Leadership
 summary: "Manage your groupings in one place, use them in many."
 ---
 
