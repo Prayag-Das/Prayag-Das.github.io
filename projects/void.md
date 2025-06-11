@@ -11,6 +11,7 @@ labels:
   - Game
   - C#
   - University of Hawaii at Manoa
+  - Collaboration
 summary: "Your memory is gone. Your sanity hangs by a thread. Critical systems are failing, and a black hole looms. Can you repair your station before time runs out?"
 ---
 
