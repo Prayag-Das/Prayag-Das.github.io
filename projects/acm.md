@@ -11,6 +11,7 @@ labels:
   - Leadership
   - ReactJS
   - University of Hawaii at Manoa
+  - Collaboration
 summary: "A small team of ICS(Information Computer Sciences) students at UH Manoa creating software for applications used by the ACM(Association for Computing Machinery) clubs on campus"
 ---
 
