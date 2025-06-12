@@ -7,7 +7,7 @@ title: "GUI - Rules Of Life Engine Model"
 date: 2025-05-08
 published: true
 labels:
-  - Web Application
+  - Application
   - R
   - R Shiny
   - University of Hawaii at Manoa
