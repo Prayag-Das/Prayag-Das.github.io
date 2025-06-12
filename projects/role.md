@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/role/Role-official-logo-simple.png
+image: img/role/RoLE-official-logo-simple.png
 title: "GUI - Rules Of Life Engine Model"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
@@ -51,6 +51,6 @@ This project is currently still in progress and is planned for use in a scientif
 </div>
 <div class="text-center p-4">
   <img width="620px" 
-       src="../img/role/RoLE-team.png"
+       src="../img/role/RoLE-team.jpg"
        class="img-thumbnail" >
 </div>
