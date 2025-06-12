@@ -42,7 +42,7 @@ This project is currently still in progress and is planned for use in a scientif
        class="img-thumbnail" >
 </div>
 <div class="text-center p-4">
-  <img width="620px" 
+  <img width="310px" 
        src="../img/role/sidebar.png"
        class="img-thumbnail" >
   <img width="620px" 
