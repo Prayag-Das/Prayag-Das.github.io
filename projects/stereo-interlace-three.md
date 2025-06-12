@@ -26,7 +26,7 @@ I'm currently working on this project as a post-graduate volunteer for LAVA. So 
 I will update this page with more developments as they happen.
 
 <div class="text-center p-4">
-  <img width="310px" 
+  <img width="620px" 
        src="../img/lava/1.png"
        class="img-thumbnail" >
   <img width="620px" 
