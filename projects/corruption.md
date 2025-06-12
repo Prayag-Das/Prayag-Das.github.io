@@ -1,38 +1,46 @@
 ---
 layout: project
 type: project
-image: img/rise/corruption.PNG
+image: img/corruption/title.png
 title: "Game - RISE: Corruption"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-26
-published: false
+published: true
 labels:
   - Game
   - Unity
   - C++
   - University of Hawaii at Manoa
   - Solo Project
-summary: "Step into the role of an antivirus robot. Eliminate all viruses as quickly as possible!"
+summary: "You're an antivirus robot, and it's up to you to safely navigate the computer's components and eliminate all viruses!"
 ---
 
 ## Overview
-Bulleton is a mobile app that serves as a centralized hub for users to find comprehensive information related to their specific hobbies or interests. Users can select a default hobby bulletin board with information feeds that we believe will be most useful, or they can customize their boards to display only the information they care about.
+RISE: Corruption is the first in what hopes to be a series of games in a shared universe. You play an antivirus robot tasked with purging a computer of harmful viruses. Roam across the computer's hardware components, using WASD to move and SPACE to jump, while avoiding live wires that will deplete your three lives.
+
+There are three distinct zones, each infected with a virus. Once you eliminate a zone's virus, a teleporter to the next section activates. On any playthrough, the order of these zones is randomized, ensuring a new experience each time you play. You must clear all three zones to win the game.
 
 ## My Experience
-For my ICS 466 course, Design for Mobile Devices, we used Dart and Flutter to design mobile apps and learned introductory app marketing practices. I had the idea of creating an app that allows users to get all the latest information on their personal interests, removing a large portion of the overhead required. The app's interface needed to be simple and intuitive to compete against alternative options such as search engines. I designed the general structure of the app, along with many of the assets and visual elements seen on the user interface.
+This game was my submission for the first project in my game development class. The purpose of this solo project was to showcase our individual skills, which helped us form groups for the next project. We were given a very simple rubric with basic requirements, allowing a lot of room for creativity. One requirement was that everything in the game needed to be cubic, and another was that it had to include an item collection mechanic.
 
-We recognized the potential for a user's bulletin board to quickly become overwhelming. To combat this, we chose to utilize easily recognizable icons instead of text (e.g., a gear for settings or a tennis racket icon for a tennis hobby). Therefore, our main goal was to verify that Bulleton's UI is simple to understand and to gather information for design improvements.
+I've always been a fan of TRON's aesthetics and visuals, so I used them for inspiration. I designed several structures using cubic objects with a dark, glossy surface material. Having made basic games in Unity during high school, I found it super easy to pick up the software again. A friend showed me how to use a basic particle system in Unity, which I then incorporated to give my game bright colors and attention-grabbing visuals.
 
-In our evaluation testing, a majority of our participants were college students. Regardless, we were able to carry out some methods of observation through think-aloud protocols for assigned tasks. The usability testing provided valuable insights into Bulleton’s design and functionality. Participants completed a series of tasks and answered a set of questions to evaluate the app’s usability, navigation, and visual aesthetics.
+I designed a map with three distinct zones, each different in look and feel. This forces the player to adapt their movement strategy for each area. I also introduced a timer and a system that randomizes these zones on each replay. This challenges the player to strategize the quickest way to complete each zone and secure the win.
 
 <div class="text-center p-4">
   <img width="620px" 
-       src="../img/bulleton/1.png"
-       class="img-thumbnail" >
-  <img width="620px" 
-      src="../img/bulleton/2.png"
+      src="../img/corruption/corruption1.png"
       class="img-thumbnail" >
   <img width="620px" 
-      src="../img/bulleton/3.png"
+      src="../img/corruption/corruption2.png"
+      class="img-thumbnail" >
+  <img width="620px" 
+      src="../img/corruption/corruption3.png"
+      class="img-thumbnail" >
+  <img width="620px" 
+      src="../img/corruption/corruption4.png"
+      class="img-thumbnail" >
+  <img width="620px" 
+      src="../img/corruption/corruption5.png"
       class="img-thumbnail" >
 </div>
