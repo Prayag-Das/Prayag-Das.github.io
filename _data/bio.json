@@ -32,22 +32,22 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, HI - August 2019 to May 2025",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "August 2019",
-      "endDate": "May 2025",
+      "startDate": "",
+      "endDate": "",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Groupings",
+      "company": "UH Groupings - March 2023 to May 2025",
       "position": "Web App Developer",
       "website": "https://www.hawaii.edu/its/uhgroupings/",
-      "startDate": "March 2023",
-      "endDate": "May 2025",
+      "startDate": "",
+      "endDate": "",
       "summary": "Development of software using frameworks like AngularJS and ReactJS",
       "highlights": [
         "I really enjoyed working with a group of new and seasoned web developers. I learned a lot about UI design with React, effective communication, and team app development."
@@ -56,18 +56,18 @@
   ],
   "volunteer": [
     {
-      "organization": "Association of Computing Machinery, UH Manoa Student Chapter (ACM Manoa)",
+      "organization": "Association of Computing Machinery, UH Manoa Student Chapter (ACM Manoa) - May 2023 to May 2024",
       "website": "https://acmmanoa.org/",
       "position": "Director of Tech and Innovation",
-      "startDate": "May 2023",
-      "endDate": "May 2024",
+      "startDate": "",
+      "endDate": "",
       "summary": "I managed technical resources and maintained the website for the team. I also led a small software development team, guiding students in creating web applications for ACM Manoa clubs.",
       "highlights": [
         "This experience helped me sharpen my leadership skills, and I learned a lot about teaching and facilitating group activities.",
       ]
     },
     {
-      "organization": "FRC(FIRST Robotics Competition) Team 971 Spartan Robotics",
+      "organization": "FRC(FIRST Robotics Competition) Team 971 Spartan Robotics - August 2017 to June 2019",
       "website": "https://frc971.org/content/members",
       "position": "President",
       "startDate": "August 2017",
@@ -82,8 +82,8 @@
   "awards": [
     {
       "title": "Best In Class",
-      "date": "February 26-28, 2021",
-      "awarder": "CodeDay",
+      "date": "",
+      "awarder": " Virtual CodeDay Winter 2021 Hackathon - February 26-28, 2021",
       "link": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
     }
   ]
