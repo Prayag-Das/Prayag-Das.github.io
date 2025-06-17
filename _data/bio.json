@@ -9,7 +9,8 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Prayag-Das", "url": "http://github.com/Prayag-Das" },
-      { "network": "linkedin", "username": "prayag das", "url": "http://linkedin.com/in/prayag-das2001" }
+      { "network": "linkedin", "username": "prayag das", "url": "http://linkedin.com/in/prayag-das2001" },
+      { "network": "", "username": "View or Download Full Resume", "url": "../downloads/Resume-Prayag-Das.pdf" }
     ]
   },
   "interests": [
@@ -85,10 +86,5 @@
       "awarder": "CodeDay",
       "link": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
     }
-  ],
-  "full resume": [
-    "profiles": [
-      { "network": "", "username": "View/Download Here", link="../downloads/Resume-Prayag-Das.pdf" }
-    ]
   ]
 }
