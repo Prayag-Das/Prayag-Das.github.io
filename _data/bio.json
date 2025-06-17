@@ -88,7 +88,7 @@
   ],
   "full resume": [
     "profiles": [
-      { "network": "", "username": "View/Download Here", src="../downloads/Resume-Prayag-Das.pdf" }
+      { "network": "", "username": "View/Download Here", link="../downloads/Resume-Prayag-Das.pdf" }
     ]
   ]
 }
