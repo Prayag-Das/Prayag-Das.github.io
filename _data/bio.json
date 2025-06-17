@@ -86,12 +86,9 @@
       "link": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
     }
   ],
-  "references": [
-    {
-      "Michael Hodges - Information Tech Services, University of Hawaii at Manoa": "Available upon request"
-    },
-    {
-      "Jason Leigh - Director of LAVA, University of Hawaiʻi at Mānoa, Director Emeritus of Electronic Visualization Lab University of Illinois at Chicago": "Available upon request"
-    }
+  "full resume": [
+    "profiles": [
+      { "network": "", "username": "View/Download Here", src="../downloads/Resume-Prayag-Das.pdf" }
+    ]
   ]
 }
