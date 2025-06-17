@@ -83,8 +83,14 @@
     {
       "title": "Best In Class",
       "date": "",
-      "awarder": " Virtual CodeDay Winter 2021 Hackathon - February 26-28, 2021",
-      "link": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
+      "awarder": "Virtual CodeDay Winter 2021 Hackathon - February 26-28, 2021",
+      "url": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "date": "",
+      "awarder": "University of Hawai’i at Mānoa, Information and Computer Sciences Department - May 1, 2024",
+      "link": ""
     }
   ]
 }
