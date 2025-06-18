@@ -18,7 +18,9 @@
     { "name": "Artificial Intelligence" },
     { "name": "Robotics" },
     { "name": "Web Development" }, 
-    { "name": "Graphic Design" }
+    { "name": "Graphic Design" },
+    { "name": "UX Design" },
+    { "name": "Project Management" }
   ],
   "skills": [
     {
