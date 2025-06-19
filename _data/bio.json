@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Prayag Das",
+    "label": "Entry Level Software Developer, B.S. in Computer Science - University of Hawaii at Manoa",
+    "picture": "https://github.com/Prayag-Das.png",
+    "email": "prayag.j.das2001@hawaii.edu",
+    "website": "https://Prayag-Das.github.io",
+    "summary": "I have recently completed my Bachelor of Science degree in Computer Science at the University of Hawaii at Manoa, Department of Information and Computer Sciences. I have two years of experience in UX/UI design and have contributed in both volunteer and paid leadership roles. I have hosted several workshops for students to promote team-building, collaboration, strong UI design practices, and strong communication skills.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Prayag-Das", "url": "http://github.com/Prayag-Das" },
+      { "network": "linkedin", "username": "prayag das", "url": "http://linkedin.com/in/prayag-das2001" },
+      { "network": "", "username": "View or Download Full Resume", "url": "../downloads/Resume-Prayag-Das.pdf" }
+    ]
+  },
+  "interests": [
+    { "name": "App and Game Design" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Robotics" },
+    { "name": "Web Development" }, 
+    { "name": "Graphic Design" },
+    { "name": "UX Design" },
+    { "name": "Project Management" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C#", "C++", "Java", "Javascript", "Python", "ReactJS", "R" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mountian View High School, Mountain View, CA - August 2015 to June 2019",
+      "area": "California Distinguished School",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI - August 2019 to May 2025",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Groupings - March 2023 to May 2025",
+      "position": "Web App Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Development of software using frameworks like AngularJS and ReactJS. I really enjoyed working with a group of new and seasoned web developers. I learned a lot about UI design with React, effective communication, and team app development."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Association of Computing Machinery, UH Manoa Student Chapter (ACM Manoa) - May 2023 to May 2024",
+      "website": "https://acmmanoa.org/",
+      "position": "Director of Tech and Innovation",
+      "startDate": "",
+      "endDate": "",
+      "summary": "I managed technical resources and maintained the website for the team. I also led a small software development team, guiding students in creating web applications for ACM Manoa clubs.",
+      "highlights": [
+        "This experience helped me sharpen my leadership skills, and I learned a lot about teaching and facilitating group activities.",
+      ]
+    },
+    {
+      "organization": "FRC(FIRST Robotics Competition) Team 971 Spartan Robotics - August 2017 to June 2019",
+      "website": "https://frc971.org/content/members",
+      "position": "President",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Liason with the High School and Lab schedule management",
+      "highlights": [
+        "Interface with the school and the ASB Council of Presidents",
+        "Schedule Lab Hours and Supervision"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best In Class",
+      "date": "",
+      "awarder": "Virtual CodeDay Winter 2021 Hackathon - February 26-28, 2021",
+      "url": "https://showcase.codeday.org/project/cklohluef13895811qffuyjne2t?fbclid=IwY2xjawKwO1NleHRuA2FlbQIxMQBicmlkETFyY2VxUkV5eUFBR1ZYOFZsAR5ZyezXwFrNKUp83wUzHNMyZrtOjCKdT4LRrixnBnyc0yfjRiRKxiHBzHNkZQ_aem_dx5z8QgwVhNbJoy9lWM3MA"
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "date": "",
+      "awarder": "University of Hawai’i at Mānoa, Information and Computer Sciences Department - May 1, 2024",
+      "link": ""
+    }
+  ]
+}
